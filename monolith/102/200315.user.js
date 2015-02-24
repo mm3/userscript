@@ -2,7 +2,7 @@
 // @id             www.linux.org.ru-2ch-style@scriptish
 // @name           LOR 2ch-style
 // @version    0.1
-// @author         
+// @author         mm3 and other
 // @description    enter something useful
 // @match      http://www.linux.org.ru/*
 // @match      https://www.linux.org.ru/*
